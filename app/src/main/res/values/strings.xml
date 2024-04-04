@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExxceliqSolutions</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="network_error_icon">Network Error Icon</string>
+</resources>
